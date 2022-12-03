@@ -1,0 +1,24 @@
+<manifest>
+    <!--Device Trees-->
+    <project name="thesourcecodes/android_device_xiaomi_lisa" path="device/xiaomi/lisa" remote="github" revision="lineage-19.1" />
+    <project name="thesourcecodes/android_device_xiaomi_sm8350-common" path="device/xiaomi/sm8350-common" remote="github" revision="lineage-19.1" />
+
+    <!--Kernel tree-->
+    <project name="thesourcecodes/android_kernel_xiaomi_sm8350" path="kernel/xiaomi/sm8350" remote="github" revision="lineage-19.1" />
+
+    <!--Vendor Tree-->
+    <project name="thesourcecodes/android_vendor_xiaomi_lisa" path="device/xiaomi/lisa" remote="github" revision="lineage-19.1" />
+    
+    <!--Hardware-->
+	  <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-19.1" />
+	
+</manifest>
+
+<!--	Example
+		<remote name="kernel"
+        fetch="https://gitlab.com"
+        revision="twelve"
+			
+		<!--Kernel-->
+		<!-- <project path="kernel/xiaomi/lisa" name="xiaomi-lisa-devs/android_kernel_xiaomi_sm8350" remote="kernel"
+-->
