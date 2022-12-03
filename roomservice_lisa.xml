@@ -15,10 +15,10 @@
 </manifest>
 
 <!--	Example
-		<remote name="kernel"
-        fetch="https://gitlab.com"
-        revision="twelve"
+<remote name="kernel"
+fetch="https://gitlab.com"
+revision="twelve"
 			
-		<!--Kernel-->
-		<!-- <project path="kernel/xiaomi/lisa" name="xiaomi-lisa-devs/android_kernel_xiaomi_sm8350" remote="kernel"
+<!--Kernel-->
+<!-- <project path="kernel/xiaomi/lisa" name="xiaomi-lisa-devs/android_kernel_xiaomi_sm8350" remote="kernel"
 -->
